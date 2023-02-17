@@ -1,0 +1,4 @@
+# Project exclude paths
+/books-main/.gradle/
+/books-main/build/
+/books-main/build/classes/java/main/

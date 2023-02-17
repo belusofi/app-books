@@ -1,0 +1,15 @@
+#kind: Service
+#apiVersion: v1
+#metadata:
+#  name: helidon-mp-swagger
+#  labels:
+#    app: helidon-mp-swagger
+#spec:
+#  type: NodePort
+#  selector:
+#    app: helidon-mp-swagger
+#  ports:
+#    - port: 8080
+#      targetPort: 8080
+#      name: http
+#
